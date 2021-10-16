@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Manish Enishetty
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently pursuing Masters in Computer Science
